@@ -81,6 +81,9 @@
 .fast-reset .back {  
     transition: transform 0.15s;
 }
+.fast-reset .paper {
+    transition: none;
+}
 
 .front {
     z-index: 1;
